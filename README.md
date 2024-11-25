@@ -23,15 +23,15 @@ Hello and welcome to my GitHub profile! I'm **Umer Durrani**, a passionate Full 
 ---
 
 ## 🎓 Acknowledgments  
-I owe my progress to the guidance of incredible mentors and teachers, including:  
-- **[Your Teacher's Name](#)** *(Replace with their GitHub/LinkedIn/Portfolio link)*  
-- **[Another Teacher's Name](#)** *(Add more mentors if needed)*  
+I owe my progress to the guidance of incredible mentors and teachers and beloved friend, including:  
+- **[Sir Aamir](https://github.com/ITSAAMI)** *(Replace with their GitHub/LinkedIn/Portfolio link)*  
+- **[Azlan Hafeez](https://github.com/AzlanHafeez)** *(Add more mentors if needed)*  
 
 ---
 
 ## 📂 My Projects  
 Here are some of my recent and favorite projects:  
-1. **[Project Name 1](#)** - A brief description of the project.  
+1. **[School and College Management System](#)** - A brief description of the project.  
 2. **[Project Name 2](#)** - A brief description of the project.  
 3. **[More Projects](#)** - Check out my repositories for more!  
 
