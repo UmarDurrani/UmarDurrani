@@ -27,13 +27,6 @@ I owe my progress to the guidance of incredible mentors and teachers and beloved
 - **[Sir Aamir](https://github.com/ITSAAMI)** *(Replace with their GitHub/LinkedIn/Portfolio link)*  
 - **[Azlan Hafeez](https://github.com/AzlanHafeez)** *(Add more mentors if needed)*  
 
----
-
-## 📂 My Projects  
-Here are some of my recent and favorite projects:  
-1. **[School and College Management System](#)** - A brief description of the project.  
-2. **[Project Name 2](#)** - A brief description of the project.  
-3. **[More Projects](#)** - Check out my repositories for more!  
 
 ---
 
@@ -46,7 +39,7 @@ Here are some of my recent and favorite projects:
 
 ## 🤝 Connect With Me  
 - **GitHub**: [@UmerDurrani](https://github.com/UmerDurrani)  
-- **LinkedIn**: [YourLinkedInProfile](https://linkedin.com/in/YourProfile)  
+- **LinkedIn**: [MyLinkedInProfile](www.linkedin.com/in/umar-durrani-553a37380)  
 - **Email**: durraniu1122@gmail.com 
 
 ---
