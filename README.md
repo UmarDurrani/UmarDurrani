@@ -38,9 +38,9 @@ I owe my progress to the guidance of incredible mentors and teachers and beloved
 ---
 
 ## 🤝 Connect With Me  
-- **GitHub**: [@UmerDurrani](https://github.com/UmerDurrani)  
-- **LinkedIn**: [MyLinkedInProfile](www.linkedin.com/in/umar-durrani-553a37380)  
-- **Email**: durraniu1122@gmail.com 
+- **GitHub**: [https://github.com/UmerDurrani]
+- **LinkedIn**: [www.linkedin.com/in/umar-durrani-553a37380]
+- **Email**: [durraniu1122@gmail.com]
 
 ---
 
