@@ -24,8 +24,8 @@ Hello and welcome to my GitHub profile! I'm **Umer Durrani**, a passionate Full 
 
 ## 🎓 Acknowledgments  
 I owe my progress to the guidance of incredible mentors and teachers and beloved friend, including:  
-- **[Sir Aamir](https://github.com/ITSAAMI)** *(Replace with their GitHub/LinkedIn/Portfolio link)*  
-- **[Azlan Hafeez](https://github.com/AzlanHafeez)** *(Add more mentors if needed)*  
+- **[Sir Aamir](https://github.com/ITSAAMI)**  
+- **[Azlan Hafeez](https://github.com/AzlanHafeez)** 
 
 
 ---
